@@ -1,0 +1,11 @@
+Dear {Guardian},
+
+We are happy to tell you that {Name} is now enrolled at the {Team}!
+The date & time of first practice is as follows: {Practice}
+
+Please feel free to phone us at (555) - 12345678 for any additional
+information you may need.
+
+Yours Sincerely
+Pelé Messy,
+Springfield Dream League Manager
